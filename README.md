@@ -2,7 +2,7 @@
 
 # Análise de Resíduos Plásticos
 
-https://github.com/Fabiane-Gaspar/MVP_An-lise_Exploratoria_Recilagem_Global/new/main?readme=1
+DataSet: https://drive.google.com/file/d/1iRoCKXwquRQ_LWXCszQUu-CS4Oeplsjz/view?usp=sharing
 
 ## Descrição
 Análise exploratória dos dados globais de produção e reciclagem de plástico.
