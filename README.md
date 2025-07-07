@@ -9,4 +9,4 @@ Análise exploratória dos dados globais de produção e reciclagem de plástico
 
 ## Como Usar
 - Abra o notebook no Colab:  
-  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/seu-usuario/repositorio/blob/main/nome_do_notebook.ipynb)
+  [![Open In Colab](https://colab.research.google.com/drive/1UmX5_XoG4pD6GSNpUYLfAvf1hhGh2bsH#scrollTo=t8tFn5sQhqCI)
